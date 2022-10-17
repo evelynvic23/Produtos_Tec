@@ -1,6 +1,6 @@
  Olá sou a Evelyn Victoria 💕
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F743094007260859763%2F&psig=AOvVaw09ke4UVVEX39gVBFio0UDw&ust=1666101469064000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPDSweO15_oCFQAAAAAdAAAAABAP" width="40" height="40"/>
+
 
 <p>🧠 aprendendo Java / C#  e me aprofundando em HTML e CSS </p>
 <p>📍 Pronouns: Ela/Dela</p>
