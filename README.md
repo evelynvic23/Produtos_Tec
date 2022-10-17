@@ -1,4 +1,5 @@
  Olá sou a Evelyn Victoria 💕
+![image](https://user-images.githubusercontent.com/115710253/196185446-8acf0494-27f0-4045-a998-6e67de68b2c1.png)
 
 - 🌱 aprendendo Java / C#  e me aprofundando em HTML e CSS 
 - 😄 Pronouns: Ela/Dela
