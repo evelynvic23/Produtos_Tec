@@ -1,6 +1,6 @@
  Olá sou a Evelyn Victoria 💕
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 <p>🧠 aprendendo Java / C#  e me aprofundando em HTML e CSS </p>
 <p>📍 Pronouns: Ela/Dela</p>
