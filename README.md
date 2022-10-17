@@ -1,7 +1,7 @@
  Olá sou a Evelyn Victoria 💕
 
 
-![image](https://user-images.githubusercontent.com/115710253/196185446-8acf0494-27f0-4045-a998-6e67de68b2c1.png)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fgifs-1%2Fpage%2Fblog%2Fdeg-deg-gifs-as-meninas-superpoderorasdeg-deg%2FNmDl_YvuMu4zGzb7qQ5mNgBz6VmQKEgndM&psig=AOvVaw3xSI1r-O7-02Vj6IvSJSNm&ust=1666101397378000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIittMG15_oCFQAAAAAdAAAAABAJ)
 
 <p>🧠 aprendendo Java / C#  e me aprofundando em HTML e CSS </p>
 <p>📍 Pronouns: Ela/Dela</p>
