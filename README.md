@@ -5,6 +5,7 @@
 
 <p>🧠 aprendendo Java / C#  e me aprofundando em HTML e CSS </p>
 <p>📍 Pronouns: Ela/Dela</p>
+<p>📕 Estudante da ETEC  e SENAI </p>
 <hr>
 <!--ícones e imagem das estatísticas-->
   <h3>My Github Stats 📊</h3>
