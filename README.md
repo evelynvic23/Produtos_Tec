@@ -16,7 +16,7 @@
 <br>
 <br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogs.correiobraziliense.com.br%2Fproximocapitulo%2Fmeninas-superpoderosas%2F&psig=AOvVaw2Yul3niwb0SCEfkZUPIWSI&ust=1668174877057000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODXvOHio_sCFQAAAAAdAAAAABAP" width="40" height="40"/>
 
 <br>
 <!--links para contato-->
