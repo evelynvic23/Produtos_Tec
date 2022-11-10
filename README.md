@@ -18,7 +18,7 @@
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
  
- <img src="https://tenor.com/view/hello-gamer-girl-wink-gif-20013924" width="50" height="50"/>
+
 
 <br>
 <!--links para contato-->
