@@ -4,8 +4,8 @@
 
 <p>🧠 aprendendo Java / C#  e me aprofundando em HTML e CSS; </p>
 <p>👩‍💻  Desenvolvedora de games;</p>
-<p>📍 Pronouns: Ela/Dela;</p>
-<p>📕 Estudante da ETEC e SENAI.</p>
+<p>📕 Estudante de programação.</p>
+<p> Programação de Jogos Digitais - Etec e Desenvolvimento de Sistemas - Senai.</p>
 
 <hr>
 <!--ícones e imagem das estatísticas-->
