@@ -1,11 +1,13 @@
- Olá sou a Evelyn Victoria 💕
+ Olá sou a Evelyn Victoria 
 
 
 
-<p>🧠 aprendendo Java / C#  e me aprofundando em HTML e CSS; </p>
+
+<p>Aprendendo: Java, C#, JavaScript, HTML, CSS </p>
+<p> Cursando: Técnico em Programação de Jogos Digitais (Etec) | Técnico em Desenvolvimento de Sistemas (Senai).</p>
 <p>👩‍💻  Desenvolvedora de games;</p>
 <p>📕 Estudante de programação.</p>
-<p> Programação de Jogos Digitais - Etec e Desenvolvimento de Sistemas - Senai.</p>
+
 
 <hr>
 <!--ícones e imagem das estatísticas-->
