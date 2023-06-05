@@ -3,9 +3,9 @@
 
 
 
-<p>Aprendendo: Java, C#, JavaScript, HTML, CSS, Dart, PHP </p>
+<p>Aprendendo: Java, C#, JavaScript, HTML, CSS, Dart, PHP. </p>
 <p> Cursando: Técnico em Programação de Jogos Digitais (Etec) | Técnico em Desenvolvimento de Sistemas (Senai).</p>
-<p>👩‍💻  Desenvolvedora de Jogos;</p>
+<p>👩‍💻  Desenvolvedora de Jogos.</p>
 <p>📕 Estudante de programação.</p>
 
 
