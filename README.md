@@ -1,9 +1,9 @@
- Olá sou a Evelyn Victoria 
+ Evelyn Victoria da Silva Santos 
 
 
 
 
-<p>Aprendendo: Java, C#, JavaScript, HTML, CSS, Dart, PHP. </p>
+<p>Java / C# / JavaScript / HTML / CSS / Dart / PHP / Banco de Dados</p>
 <p> Cursando: Técnico em Programação de Jogos Digitais (Etec) | Técnico em Desenvolvimento de Sistemas (Senai).</p>
 <p>👩‍💻  Desenvolvedora de Jogos.</p>
 <p>📕 Estudante de programação.</p>
